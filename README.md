@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Edson Moreno</h1>
 <h3 align="center">Since I was very young I've liked to figure out how things are done, disassemble them and trying to assemble them once again, this became my childhood hobby, growing up I found out puzzles and solving them is the hobby I enjoy the most. Licenciatura en Multimedia y Animación Digital (my major) has let me do the two things that I like the most, solving problems and trying new things (programs, videogames and apps) furthermore attempting to understand the why? or how? behind them. I'd like to keep finding new challenges in IT and attempt to find it's resolution.</h3>
 
-- I’m currently learning **Unreal Engine 5**
+- I’m currently learning **Unreal Engine 5 and C++**
 
 - All my projects are available at [https://github.com/EdsonIramMoreno](https://github.com/EdsonIramMoreno)
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/edson moreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edson moreno" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/edson moreno](https://www.linkedin.com/in/edson-moreno-01/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edson moreno" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/edsoniramn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="edsoniramn1" height="30" width="40" /></a>
 <a href="https://discord.gg/Ed Son#0890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ed Son#0890" height="30" width="40" /></a>
 </p>
