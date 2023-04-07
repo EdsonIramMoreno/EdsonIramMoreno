@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edsonirammoreno&theme=dark&show_icons=true" alt="edsonirammoreno" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=edsonirammoreno&]" alt="edsonirammoreno" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edsonirammoreno&" alt="edsonirammoreno" /></p>
