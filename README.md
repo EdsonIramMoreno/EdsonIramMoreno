@@ -3,11 +3,13 @@
 
 Passionate Back-End Developer with about 2 years of professional experience in developing solutions for web applications, SQL databases, and APIs. Graduated from a Bachelor's degree in [Multimedia y Animación Digital](https://www.fcfm.uanl.mx/licenciatura/multimedia-y-animacion-digital)
 
-- I’m currently learning **Unreal Engine 5 and C++**
+- I’m currently learning **C++ with GUI**
+
+- I'm also learning complex SQL queries
 
 - All my projects are available at [EdsonIramMoreno](https://github.com/EdsonIramMoreno)
 
-- Reach me at **[Edson Moreno]**(https://www.linkedin.com/in/edson-moreno-01/)
+- Reach me at [Edson Moreno](https://www.linkedin.com/in/edson-moreno-01/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
