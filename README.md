@@ -9,7 +9,7 @@ Passionate Back-End Developer with about 2 years of professional experience in d
 
 - All my projects are available at [EdsonIramMoreno](https://github.com/EdsonIramMoreno)
 
-- Reach me at [Edson Moreno](https://www.linkedin.com/in/edson-moreno-01/)
+- Reach me at [Edson_Moreno](https://www.linkedin.com/in/edson-moreno-01/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
