@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Edson Moreno</h1>
 <h3 align="center">BackEnd Developer | QA at Banregio</h3>
 
-Passionate Back-End Developer with about 2 years of professional experience in developing solutions for web applications, SQL databases, and APIs. Graduated from a Bachelor's degree in [Multimedia y Animación Digital](https://www.fcfm.uanl.mx/licenciatura/multimedia-y-animacion-digital)
+Passionate Back-End Developer with about 2 years of professional experience in developing solutions for web applications, SQL databases, and APIs. Graduated from a Bachelor's degree in [Multimedia y Animación Digital](https://www.fcfm.uanl.mx/licenciatura/multimedia-y-animacion-digital), which has enabled me to gain hands-on experience in a variety of projects, including desktop, web, mobile applications, and game development. 
 
-- I’m currently learning complex SQL queries.
+- I’m currently learning Data Science/Analyst.
 
 - All my projects are available at [EdsonIramMoreno](https://github.com/EdsonIramMoreno)
 
